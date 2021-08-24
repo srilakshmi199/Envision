@@ -1,0 +1,175 @@
+
+{
+    "states":[
+           {
+            "name":"Andhra Pradesh",
+            "districts":13,
+            "villages":28123
+            },
+            {
+              "name":"Telangana",  
+             "districts":31,
+             "villages":12769
+            },
+            {
+             "name":"Arunachal Pradesh",   
+            "districts":22,
+            "villages":3649
+            },
+            {
+             "name": "Assam",   
+            "districts":33,
+            "villages":11281
+            },
+            {
+             "name": "Bihar",   
+            "districts":38,
+            "villages":45103
+           },
+           {
+            "name":"Chandigarh",   
+            "districts":1,
+            "villages":23
+           },
+           {
+            "name": "Chhattisgarh",  
+            "districts":27,
+            "villages":20619
+           },
+           {
+            "name":"Delhi (NCT)",   
+            "districts":11,
+            "villages":209
+           },
+           {
+            "name":"Goa",  
+            "districts":2,
+            "villages":411
+           },
+
+           {
+             "name":"Gujarat",  
+            "districts":33,
+            "villages":18544
+           },
+           {
+             "name": "Haryana",  
+            "districts":22,
+            "villages":6848
+           },
+           {
+            "name":"Himachal Pradesh",   
+            "districts":12,
+            "villages":20690
+           },
+           {
+            "name":"Jammu and Kashmir" , 
+            "districts":14,
+            "villages":897
+           },
+           {
+            "name":"Jharkhand",  
+            "districts":24,
+            "villages":32620
+           },
+          {
+            "name": "Karnataka", 
+            "districts":31,
+            "villages":29483
+           },
+           {
+            "name": "Kerala",  
+            "districts":14,
+            "villages":1670
+           },
+           {
+            "name":"Lakshadweep",  
+            "districts":1,
+            "villages":10
+           },
+           {
+            "name": "Madhya Pradesh",  
+            "districts":52,
+            "villages":51527
+           },
+           {
+            "name":"Maharashtra",  
+            "districts":35,
+            "villages":43722
+           },
+           {
+            "name":"Manipur",   
+            "districts":16,
+            "villages":1311
+           },   
+           {
+            "name":"Meghalaya",   
+            "districts":11,
+            "villages":6026
+           },
+           {
+            "name":"Mizoram",
+            "districts":8,
+            "villages":424
+           },
+           {
+            "name":"Nagaland",  
+            "districts":12,
+            "villages":484
+           },
+           {
+             "name":"Odisha",  
+            "districts":30,
+            "villages":53845
+           },
+           {
+            "name":"Puducherry",  
+            "districts":4,
+            "villages":71
+           }, 
+           
+          {
+            "name":"Punjab", 
+            "districts":22,
+            "villages":12729
+           },   
+          {
+             "name" :"Rajasthan",
+            "districts":33,
+            "villages":44672
+           },   
+         {
+             "name":"Sikkim",
+            "districts":4,
+            "villages":460
+           },   
+          {
+             "name":"Tamil Nadu", 
+            "districts":38,
+            "villages":15979
+           }, 
+          { 
+             "name":"Tripura", 
+            "districts":8,
+            "villages":901
+           },
+          {
+             "name":"Uttarakhand", 
+            "districts":13,
+            "villages":110
+           },
+           {
+             "name":"Uttar Pradesh",  
+            "districts":75,
+            "villages":107440
+           },
+           {
+              "name":"West Bengal", 
+            "districts":23,
+            "villages":40783
+           }
+    
+        
+    ]
+        
+}

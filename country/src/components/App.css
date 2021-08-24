@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.Submit{
+ background-color: green;  
+ color:white
+}
+.Circle{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+ border: 1px solid red;
+
+}
+.Rectangle{
+  width: 200px;
+  height: 50px;
+}
+.Square{
+  width: 100px;
+  height: 100px;
+}
+.App-header {
+  margin: 0;
+  padding:0;
+  background-color: gray;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.Heading{
+  font-size: 50px;
+  color: blue;
+}
+.square{
+  display:flex;
+  width:100px;
+  height:100px;
+  background-color: red;
+}
+.State-name{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  min-height: 1vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size:30px;
+  color:red;
+}
+.State-dist{
+min-height: 1vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-size: 25;
+color:cyan;
+
+}
+
+
+.State-villages{
+  min-height: 1vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 15;
+  color:greenyellow;
+  
+  }
+  .Heading{
+    align-items: center;
+    font-size: 30;
+  }
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
